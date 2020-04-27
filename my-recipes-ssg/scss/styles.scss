@@ -24,8 +24,8 @@ img {
 .u-icon{
     background: url('../img/breadAnime.svg') top right no-repeat;
 }
-.mybutton {
-    background: rgb(0, 4, 58);
+.mybutton { 
+    background: rgb(0, 0, 0); 
     color: rgb(183, 233, 225);
     border: 0;
     font-size: 0.75em;
@@ -46,4 +46,5 @@ img {
     height: auto;
     box-shadow: 0 0 transparent inset;
 }
+
 @import 'layout', 'iconfonts', 'auglysing';
